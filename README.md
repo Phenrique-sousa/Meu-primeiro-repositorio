@@ -1,2 +1,3 @@
 # Meu  primeiro repositório
- Labaxurias, primeiro repositório, duh
+ Labaxurias, primeiro repositório, duh.
+ Oh my God, am I really changing the readme from VScode?
